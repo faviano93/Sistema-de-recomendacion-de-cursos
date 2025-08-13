@@ -1,0 +1,41 @@
+[
+  {
+    "tema": "Energía Solar",
+    "nivel": "Básico",
+    "nombre": "Fundamentos de Energía Solar",
+    "descripcion": "Aprende los conceptos básicos de la energía solar y su implementación.",
+    "modulos": [
+      "Introducción a la energía solar",
+      "Tipos de paneles",
+      "Instalación básica"
+    ],
+    "modalidad": "Virtual",
+    "enlace_pdf": "pdfs/fundamentos_energia.pdf"
+  },
+  {
+    "tema": "Inteligencia Artificial",
+    "nivel": "Básico",
+    "nombre": "Introducción a la IA",
+    "descripcion": "Conoce los fundamentos y aplicaciones de la inteligencia artificial.",
+    "modulos": [
+      "Historia y conceptos básicos",
+      "Áreas de aplicación",
+      "Herramientas de IA"
+    ],
+    "modalidad": "Virtual",
+    "enlace_pdf": "pdfs/introduccion_ia.pdf"
+  },
+  {
+    "tema": "Blockchain",
+    "nivel": "Intermedio",
+    "nombre": "Blockchain Verde",
+    "descripcion": "Aplicaciones de blockchain en energía renovable.",
+    "modulos": [
+      "Qué es blockchain",
+      "Aplicaciones en energía",
+      "Casos de uso"
+    ],
+    "modalidad": "Virtual",
+    "enlace_pdf": "pdfs/blockchain_verde.pdf"
+  }
+]

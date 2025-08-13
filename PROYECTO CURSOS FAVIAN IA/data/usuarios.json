@@ -1,0 +1,37 @@
+[
+ {
+   "usuario": "usr001",
+   "edad": 18,
+   "ocupacion": "estudiante",
+   "intereses": "energia solar",
+   "cursos_vistos": "Fundamentos Energia"
+ },
+ {
+   "usuario": "usr002",
+   "edad": 25,
+   "ocupacion": "tecnico",
+   "intereses": "IA datos",
+   "cursos_vistos": "Introduccion a IA"
+ },
+ {
+   "usuario": "usr003",
+   "edad": 22,
+   "ocupacion": "estudiante",
+   "intereses": "solar eolica",
+   "cursos_vistos": "Paneles Solares"
+ },
+ {
+   "usuario": "usr004",
+   "edad": 30,
+   "ocupacion": "desempleado",
+   "intereses": "blockchain energia",
+   "cursos_vistos": "Blockchain Verde"
+ },
+ {
+   "usuario": "usr005",
+   "edad": 19,
+   "ocupacion": "estudiante",
+   "intereses": "IA energia",
+   "cursos_vistos": "IA Basica"
+ }
+]
