@@ -147,7 +147,7 @@
       document.getElementById('resultado').style.display='flex';
       document.getElementById('saludo').textContent=`Hola ${nombre}, con ${edad} años y en ${municipio} te sugerimos:`;
       document.getElementById('explicacion').textContent='Esta recomendación está basada en tu ubicación y edad.';
-      const cursos=["Ofimática","Sistemas","Auxiliar en enfermería","Panadería"];
+      const cursos=["Ofimática","Sistemas","Auxiliar en enfermería","Panadería","Blockchain verde","Decoracion","Archivista","Gastronomia","Electronica"];
       const cont=document.getElementById('cursos');cont.innerHTML='';
       cursos.forEach(c=>{let span=document.createElement('span');span.className='pill';span.textContent=c;cont.appendChild(span);});
     }
